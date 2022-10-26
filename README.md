@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a master's student in ENSAM-casablanca in Morocco, in Big data and Iot<br>🤝 I’m a full-stack developer with experience with React, Spring and .Net<br>🌱 I’m currently learning ML & DL and working on some data science projects<br>💬 You can contact me by visiting my portfolio or on my email : abdelghafourlahrache@gmail.com<br>⚡ Fun fact I'm pretty good in mobile dev but i hate Android
+🔭 I'm a master's student at ENSAM-casablanca, Morocco, in Big data and Iot<br>🤝 I’m a full-stack developer with experience with React, Spring and .Net<br>🌱 I’m currently learning ML & DL and working on some data science projects<br>💬 You can contact me by visiting my portfolio or on my email : abdelghafourlahrache@gmail.com<br>⚡ Fun fact I'm pretty good in mobile dev but i hate Android
 
 
 ## 🌐 Socials:
