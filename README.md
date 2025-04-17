@@ -3,7 +3,7 @@
 💻 I'm a full-stack developer with experience in React, Angular, Spring, .NET, Node.js, and Next.js.<br>
 🤖 I specialize in AI and Data Science, with projects involving ML, DL, GenAI, LLMs, and Computer Vision.<br>
 ☁️ I also have experience with DevOps tools and cloud technologies.<br>
-🌱 Currently, I'm building an AI-powered virtual doctor chatbot using RAG and LLMs.<br>
+🌱 Currently, I'm building an AI-powered assistants using agents and LLMs.<br>
 💬 You can reach me via my portfolio or email: abdelghafourlahrache@gmail.com.<br>
 ⚡ Fun fact: I'm skilled in mobile development but can’t stand Android with Java! 😄<br>
 
